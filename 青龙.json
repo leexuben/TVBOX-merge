@@ -4530,6 +4530,815 @@
       "playerType": 2,
       "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473",
       "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "🐰兔小贝2",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/少儿频道/json/兔小贝2.json",
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/少儿频道/jars/csp_XYQHiker_兔小贝.jar"
+    },
+    {
+      "key": "csp_XYQHiker_童趣",
+      "name": "🍭童趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/少儿频道/json/播视童趣.json",
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/少儿频道/jars/csp_XYQHiker_兔小贝.jar"
+    },
+    {
+      "key": "csp_ShuaiJiao",
+      "name": "🤺摔跤┃体育",
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar",
+      "type": 3,
+      "api": "csp_ShuaiJiao",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "[object Object]"
+    },
+    {
+      "key": "csp_Jianpian",
+      "name": "🥰荐片┃VOX",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "filters": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/json/jianpian.json",
+        "sites": "https://api.ztcgi.com"
+      },
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar"
+    },
+    {
+      "key": "csp_Guazi",
+      "name": "😳瓜子┃优质",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1,
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar"
+    },
+    {
+      "key": "py_4K影院",
+      "name": "🥭4K┃影院",
+      "api": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/py/4K影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar"
+    },
+    {
+      "key": "py_饭团PY",
+      "name": "😢饭团┃PY",
+      "api": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/BINGO-TV/refs/heads/main/py/饭团影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar"
+    },
+    {
+      "key": "py_两个BTPY",
+      "name": "🥭两个┃BT",
+      "api": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/BINGO-TV/refs/heads/main/py/两个BT.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar"
+    },
+    {
+      "key": "csp_GuanYing",
+      "name": "😂观影┃4K",
+      "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/jar/vox.jar",
+      "type": 3,
+      "api": "csp_GuanYing",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "cookie": "BT_auth=bb78wlZpzhDqDv625XUf1MsoEUcwsP0hXqpPkqhtg2eB7M_9uH1NSVOtGPlbsBKz7MmRbZQRsODxHH4lS5mQEsDrvxt7lsxFkd5Xs5bbsDMvu41JyG6zKdosCTR1Fqouf4mjkWkwklv_6lU48fC-OKsARgZrSLv4_9x85XWl-pfq275zcw; BT_cookietime=66b2rouVGBO6Jc7Cg9Ok4T7iGGCNC4_jVYjy-ZXh_Uknwwv-ARDm; vrg_sc=202c4ee8290a55cde7036804ea2153e4; vrg_go=1",
+        "filters": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/pro/json/guanying.json",
+        "sites": "https://www.gyg.la"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "手机｜推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E6%BD%87%E6%B4%92/spider.jar"
+    },
+    {
+      "key": "Doubana",
+      "name": "🐮【更新日期:20250917】🐮",
+      "type": 3,
+      "api": "csp_DoubanGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/json/douban.json",
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexconfig",
+      "name": "🐮通用类型┃配置中心🐮",
+      "type": 3,
+      "api": "csp_WexconfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexokconfig",
+      "name": "🐮影视专用┃配置中心🐮",
+      "type": 3,
+      "api": "csp_WexokconfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexerxiaoziyuan",
+      "name": "💓‍二小┃4K💓‍",
+      "type": 3,
+      "api": "csp_WexerxiaoziyuanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexzhizhen",
+      "name": "💓至臻┃4K💓",
+      "type": 3,
+      "api": "csp_WexzhizhenGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexnullname",
+      "name": "💓无名┃4K💓",
+      "type": 3,
+      "api": "csp_WexnullnameGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexseedhub",
+      "name": "💓种子┃4K💓",
+      "type": 3,
+      "api": "csp_WexseedhubGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexFox4KGuard",
+      "name": "💓极狐┃4K💓",
+      "type": 3,
+      "api": "csp_WexFox4KGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexduoduoziyuanGuard",
+      "name": "💓多多┃4K💓",
+      "type": 3,
+      "api": "csp_WexduoduoziyuanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexsayangziyuan",
+      "name": "💓撒仰┃4K💓",
+      "type": 3,
+      "api": "csp_Wexsayangziyuan",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexmuougg",
+      "name": "💓木偶┃4K💓",
+      "type": 3,
+      "api": "csp_WexmuouggGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexshuangzixingGuard",
+      "name": "💓双星┃4K💓",
+      "type": 3,
+      "api": "csp_WexshuangzixingGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexXuexi",
+      "name": "💓综合┃4K💓",
+      "type": 3,
+      "api": "csp_WexXuexiGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexfeimaoziyuanGuard",
+      "name": "💓肥猫┃4K💓",
+      "type": 3,
+      "api": "csp_WexfeimaoziyuanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexhubanGuard",
+      "name": "💓虎斑┃4K💓",
+      "type": 3,
+      "api": "csp_WexhubanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexydbixinGuard",
+      "name": "💓比心┃YD💓",
+      "type": 3,
+      "api": "csp_WexydbixinGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexalllive",
+      "name": "💓‍聚合┃直播💓‍",
+      "type": 3,
+      "api": "csp_WexallliveGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexhanxiaoquan",
+      "name": "💥韩剧┃秒播💥",
+      "type": 3,
+      "api": "csp_WexhanxiaoquanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexrenrenyingshi",
+      "name": "💥人人┃秒播💥",
+      "type": 3,
+      "api": "csp_WexrenrenyingshiGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexkuihuatvGuard",
+      "name": "💥葵花┃影视💥",
+      "type": 3,
+      "api": "csp_WexkuihuatvGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexwencai",
+      "name": "🌺文才┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexwencaiGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "🌺苹果┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexxpgtvGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexshandianGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wex4Kav",
+      "name": "🎇急速┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wex4KavGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexbaozitv",
+      "name": "🎇包子┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexbaozitvGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🎇伯伯┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexNmysGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexBDys",
+      "name": "🎇滴滴┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBDysGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexF4kvmGuard",
+      "name": "🎇纯享┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexF4kvmGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexbttwoGuard",
+      "name": "🎇大鼻涕┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexbttwoGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexikanbotGuard",
+      "name": "🎇爱看┃采集🎇",
+      "type": 3,
+      "api": "csp_WexikanbotGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexemby",
+      "name": "🀄️emby┃4K🀄️",
+      "type": 3,
+      "api": "csp_WexembyGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexduanjuquark",
+      "name": "🍉短剧┃夸克🍉",
+      "type": 3,
+      "api": "csp_WexduanjuquarkGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexduanjuvip",
+      "name": "🍉短剧┃免费🍉",
+      "type": 3,
+      "api": "csp_WexduanjuvipGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexduanjuvop",
+      "name": "🍉短剧┃秒播🍉",
+      "type": 3,
+      "api": "csp_WexduanjuvopGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexduanjuhema",
+      "name": "🍉短剧┃仙品🍉",
+      "type": 3,
+      "api": "csp_WexduanjuhemaGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexduanju001",
+      "name": "🍉短剧┃神品🍉",
+      "type": 3,
+      "api": "csp_Wexduanju001Guard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexduanjuvmpGuard",
+      "name": "🍉短剧┃帝品🍉",
+      "type": 3,
+      "api": "csp_WexduanjuvmpGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexlaobaitingshu",
+      "name": "🎃‍白兔┃听书🎃",
+      "type": 3,
+      "api": "csp_WexlaobaitingshuGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wex275tingshu",
+      "name": "🎃‍极品┃听书🎃",
+      "type": 3,
+      "api": "csp_Wex275tingshuGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexliyuan",
+      "name": "🎎戏曲┃秒播🎎",
+      "type": 3,
+      "api": "csp_WexliyuanGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wextangdou",
+      "name": "💃跳舞┃教学💃",
+      "type": 3,
+      "api": "csp_WextangdouGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexergeduoduo",
+      "name": "👼多多┃儿歌👼",
+      "type": 3,
+      "api": "csp_WexergeduoduoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexbaobaobashi",
+      "name": "👼宝宝┃儿歌👼",
+      "type": 3,
+      "api": "csp_WexbaobaobashiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexbeiwa",
+      "name": "👼贝贝┃儿歌👼",
+      "type": 3,
+      "api": "csp_WexbeiwaGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wextuxiaobei",
+      "name": "👼兔兔┃儿歌👼",
+      "type": 3,
+      "api": "csp_WextuxiaobeiGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Pandalivetv",
+      "name": "😍韩国┃直播😍",
+      "type": 3,
+      "api": "csp_WexPandalivetvGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexxifan",
+      "name": "🤡稀饭┃动漫🤡",
+      "type": 3,
+      "api": "csp_WexxifanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexDm84",
+      "name": "🤡巴士┃动漫🤡",
+      "type": 3,
+      "api": "csp_WexDm84Guard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexYsj",
+      "name": "🤡异界┃动漫🤡",
+      "type": 3,
+      "api": "csp_WexYsjGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexbiliys",
+      "name": "🅱‍哔哔┃影视🅱‍",
+      "type": 3,
+      "api": "csp_WexbiliysGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "biliych",
+      "name": "🅱哔哔┃歌曲🅱",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wexqingfengdj",
+      "name": "🎼舞曲┃摇头🎼",
+      "type": 3,
+      "api": "csp_WexqingfengdjGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexLunhuiDJ",
+      "name": "🎼轮回┃舞曲🎼",
+      "type": 3,
+      "api": "csp_WexLunhuiDJGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexTJso",
+      "name": "🎠TJ┃综合🎠",
+      "type": 3,
+      "api": "csp_WexTJsoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "Wextyso",
+      "name": "🎠给力┃天逸🎠",
+      "type": 3,
+      "api": "csp_WextysoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexbaidusoGuard",
+      "name": "🎠给力┃百度🎠",
+      "type": 3,
+      "api": "csp_WexbaidusoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexAiPanGuard",
+      "name": "🎠给力┃综合🎠",
+      "type": 3,
+      "api": "csp_WexAiPanGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexHaiYinsoGuard",
+      "name": "🎠海音┃综合🎠",
+      "type": 3,
+      "api": "csp_WexHaiYinsoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexZhaoPansoGuard",
+      "name": "🎠找盘┃综合🎠",
+      "type": 3,
+      "api": "csp_WexZhaoPansoGuard",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "tianyi",
+      "name": "💓我的┃天逸💓‍",
+      "type": 3,
+      "api": "csp_WexWo189Guard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "WexWo123panGuard",
+      "name": "💓我的┃123💓‍",
+      "type": 3,
+      "api": "csp_WexWo123panGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "baidu",
+      "name": "💓我的┃百度💓‍",
+      "type": 3,
+      "api": "csp_WexWoBaiduPanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+    },
+    {
+      "key": "csp_xlys",
+      "name": "修罗┃无搜索",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij",
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "lanyingys",
+      "name": "橘子4K┃APP",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8",
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "Dygang",
+      "name": "电影港[边下边播]",
+      "type": 3,
+      "api": "csp_Dygang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "NoSearch_csp_DiDuan",
+      "name": "低端┃无搜索",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473",
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "csp_sbb",
+      "name": "布布┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j",
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Auete┃无搜索",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
+    },
+    {
+      "key": "NoSearch_csp_BBB",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j",
+      "jar": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E5%B7%A7%E6%8A%80/spider.jar"
     }
   ],
   "spider": "https://raw.githubusercontent.com/leexuben/TV-BOX/main/tvbox/%E6%BD%87%E6%B4%92/spider.jar",
