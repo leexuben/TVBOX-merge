@@ -1,7 +1,7 @@
 自动从几个大佬的配置文件中每天自动提取整合到本仓库，不修改任何内容！！！！！！
 
 
-本仓库配置源：https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/%E9%9D%92%E9%BE%99.json
+本仓库配置源：https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/QLTV.json
 
 
 
